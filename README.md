@@ -28,8 +28,6 @@ This project aims to build a system that translates human-readable English descr
 - Integrate a graphical user interface for user input and visualized output.
 
 
-
-<br />
 ## 2. AI Watermarking
 
 
