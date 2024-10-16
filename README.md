@@ -6,8 +6,9 @@
 
 Stack:
 
-1. GPT - Mistral / Huggingface
-2. Dataset - Open Source Terraform code on github
+  1. GPT - Mistral / Huggingface
+  2. Dataset - Open Source Terraform code on github
+
 
 2. AI Watermarking
 
