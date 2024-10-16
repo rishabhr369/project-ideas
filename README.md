@@ -1,8 +1,5 @@
 # Project Ideas
 
-Copy code
-# Project Ideas
-
 ## 1. English to Terraform
 
 ### Overview
