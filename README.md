@@ -45,3 +45,8 @@ This project aims to build a system that translates human-readable English descr
 - Inspiration from https://github.com/geohacker/bmtc
 - Need to check for available APIs/data
 - Can start with Chicago/Boston
+
+## 5. Multi Agent Emergence
+- Study emergent behaviour when many agents come together to act as one.
+- Simulate an environment where these agents compete for resources
+- Further, study emergence between these cumulative agents
