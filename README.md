@@ -50,3 +50,13 @@ This project aims to build a system that translates human-readable English descr
 - Study emergent behaviour when many agents come together to act as one.
 - Simulate an environment where these agents compete for resources
 - Further, study emergence between these cumulative agents
+
+## 6. Pomodoro Timer
+- Easy webapp to track progress and time spent on each task, project
+- Chrome extension
+
+## 7. Website for pibbles bakery
+- Menu, store locator/ other basic things
+- Orders + customisation of cakes
+- Chat for conversations on custom orders
+- CMS for promos/deals/updates
