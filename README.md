@@ -40,6 +40,7 @@ This project aims to build a system that translates human-readable English descr
 - Usually, there are multiple ways of transport to university as a student, taking Northeastern and UIC as examples, we have our own university shuttles along with public transportation and local bike sharing like divvy
 - We can consume data from apis of university shuttles and apis of public transport (Chicago Transport Authority and Boston for example) we can optimise the path a student can take to reach campus on time
 - A unique feature could include co ordinating bus and shuttle switches, google maps does not take into account the arrival time of a connecting bus and does not consume data from university shuttles (like UIC Ride and RedEye for UIC and NEU)
+- We can add a route visualizer from the present location to the destination. We can integrate various third party transport service API's and add a ranking feature that displays cost vs the time tradeoff for every option you could take to your university.
 
 ## 4. Public transport visualisation
 - Inspiration from https://github.com/geohacker/bmtc
